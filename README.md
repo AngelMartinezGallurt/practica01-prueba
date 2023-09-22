@@ -5,3 +5,5 @@ Se añade una nueva línea desde VSCode
 
 
 Escribo una línea en conflicto con GitHub
+
+Otra fila
